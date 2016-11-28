@@ -1,0 +1,37 @@
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.exe
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.pdb
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\ResolveAssemblyReference.cache
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmMenuPrincipal.resources
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.Properties.Resources.resources
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.csproj.GenerateResource.Cache
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.exe
+C:\LPOO2TPFINAL\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.pdb
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.exe
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.pdb
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmAcerca.resources
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmMenuPrincipal.resources
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmMesasEstados.resources
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.Properties.Resources.resources
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.csproj.GenerateResource.Cache
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.exe
+C:\Documents and Settings\usuario\Mis documentos\Visual Studio 2008\Projects\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.pdb
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmAcerca.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmAgregarItems.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmCategorias.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmFacturacion.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmMenuPrincipal.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmMesasEstados.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmPedido.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmCategoriaDetalle.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.Properties.Resources.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.csproj.GenerateResource.Cache
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\bin\Debug\RestoDB.sdf
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\bin\Debug\resources\b.jpg
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\bin\Debug\resources\fenix.JPG
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.exe
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\bin\Debug\view_mobile_resto.pdb
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.exe
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.pdb
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmItemDetalle.resources
