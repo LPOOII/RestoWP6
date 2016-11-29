@@ -62,9 +62,11 @@
             // txtCantidad
             // 
             this.txtCantidad.Location = new System.Drawing.Point(133, 214);
+            this.txtCantidad.MaxLength = 2;
             this.txtCantidad.Name = "txtCantidad";
             this.txtCantidad.Size = new System.Drawing.Size(43, 21);
             this.txtCantidad.TabIndex = 1;
+            this.txtCantidad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCantidad_KeyPress);
             // 
             // listArticulos
             // 

@@ -26,7 +26,6 @@ namespace view_mobile_resto
             labelCategoria.Text = art.Cat_descrip;
             labelUMed.Text = art.Um_descrip;
             labelPrecio.Text += art.Art_precio.ToString();
-            //labelDescrip
         }
     }
 }
