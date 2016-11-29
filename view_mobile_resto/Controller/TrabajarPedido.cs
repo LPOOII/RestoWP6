@@ -70,5 +70,19 @@ namespace view_mobile_resto.Controller
             Query.ExecuteNonQuery();
             cnn.Close();
         }
+
+        public static DataTable lista_pedidos() {
+            SqlCeConnection cnn = new SqlCeConnection();
+            cnn.ConnectionString = "Data Source=" +
+                System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().GetName().CodeBase) + "\\RestoDB.sdf; " +
+                "Persist Security Info=False;";
+            cnn.Open();
+            SqlCeCommand Query = new SqlCeCommand("SELECT Ped_Id as ID, Mesa_Id as Mesa, Ped_Fecha as Fecha, Ped_Comensales as Comensales, Ped_Facturado as Facturado FROM Pedido", cnn);
+            SqlCeDataAdapter da = new SqlCeDataAdapter(Query);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            cnn.Close();
+            return dt;
+        }
     }
 }

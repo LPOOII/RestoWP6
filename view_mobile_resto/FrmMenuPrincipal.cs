@@ -22,7 +22,13 @@ namespace view_mobile_resto
             oAcerca.ShowDialog();
         }
 
-        private void menuItemPedidos_Click(object sender, EventArgs e)
+        private void menuItem1_Click(object sender, EventArgs e)
+        {
+            FrmListaPedidos lista = new FrmListaPedidos();
+            lista.Show();
+        }
+
+        private void menuItem2_Click(object sender, EventArgs e)
         {
             FrmMesasEstados oMesasEstados = new FrmMesasEstados();
             oMesasEstados.Show();

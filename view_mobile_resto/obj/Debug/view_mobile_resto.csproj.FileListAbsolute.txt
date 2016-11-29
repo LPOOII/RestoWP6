@@ -35,3 +35,4 @@ C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\
 C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.exe
 C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.pdb
 C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmItemDetalle.resources
+C:\Documents and Settings\usuario\Escritorio\app_movil_grp_06\view_mobile_resto\obj\Debug\view_mobile_resto.FrmListaPedidos.resources

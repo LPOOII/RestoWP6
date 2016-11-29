@@ -34,6 +34,8 @@
             this.menuItemPedidos = new System.Windows.Forms.MenuItem();
             this.menuItemAcercaDe = new System.Windows.Forms.MenuItem();
             this.pictureFondo = new System.Windows.Forms.PictureBox();
+            this.menuItem1 = new System.Windows.Forms.MenuItem();
+            this.menuItem2 = new System.Windows.Forms.MenuItem();
             this.SuspendLayout();
             // 
             // mainMenu
@@ -43,8 +45,9 @@
             // 
             // menuItemPedidos
             // 
+            this.menuItemPedidos.MenuItems.Add(this.menuItem1);
+            this.menuItemPedidos.MenuItems.Add(this.menuItem2);
             this.menuItemPedidos.Text = "Pedidos";
-            this.menuItemPedidos.Click += new System.EventHandler(this.menuItemPedidos_Click);
             // 
             // menuItemAcercaDe
             // 
@@ -59,6 +62,16 @@
             this.pictureFondo.Name = "pictureFondo";
             this.pictureFondo.Size = new System.Drawing.Size(240, 268);
             this.pictureFondo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            // 
+            // menuItem1
+            // 
+            this.menuItem1.Text = "Pedidos";
+            this.menuItem1.Click += new System.EventHandler(this.menuItem1_Click);
+            // 
+            // menuItem2
+            // 
+            this.menuItem2.Text = "Mesas";
+            this.menuItem2.Click += new System.EventHandler(this.menuItem2_Click);
             // 
             // FrmMenuPrincipal
             // 
@@ -80,5 +93,7 @@
         private System.Windows.Forms.MenuItem menuItemPedidos;
         private System.Windows.Forms.MenuItem menuItemAcercaDe;
         private System.Windows.Forms.PictureBox pictureFondo;
+        private System.Windows.Forms.MenuItem menuItem1;
+        private System.Windows.Forms.MenuItem menuItem2;
     }
 }
